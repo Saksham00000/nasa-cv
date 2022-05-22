@@ -1,0 +1,38 @@
+body{
+    background-color:  #33334d;
+}
+img{
+    background-color:  #33334d;
+    width: 150px;
+}
+h1{
+    font-size: 50px;
+    color: #6ef154;
+
+}
+h2{
+    font-size: 30px;
+    color: #6ef154;
+}
+h3{
+    font-style: normal;
+    font-size: 20px;
+    color: #6ef154;
+}
+hr{
+    border-color: #ffffff;
+    border-style: dotted;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: 2.5px;
+    width: 600px;
+}
+th{
+    font-size: 25px;
+    color: #b1fca2;
+}
+td{
+    font-size: 15;
+    color: #b1fca2;
+}
